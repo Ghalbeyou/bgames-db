@@ -1,2 +1,2 @@
 # bgames-db
-BGames DB
+BGames DB(Database) is a database in INI for BGames client.
